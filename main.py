@@ -23,4 +23,4 @@ def hitung_usaha(gaya, jarak ) :
 #gaya
 #jarak
 usaha = hitung_usaha(15, 5 * 1)
-usaha = hitung_usaha(30, 6 * 1)
+usaha = hitung_usaha(30, 7 * 1)
